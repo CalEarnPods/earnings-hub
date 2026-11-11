@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-11-11T01:58:15.186889+00:00",
+  "episodes": [
+    {
+      "company": "crwv",
+      "slug": "crwv_q3_2026",
+      "title": "CoreWeave \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-11-10",
+      "duration_sec": 3792.027,
+      "bytes": 46316195,
+      "bitrate": 96,
+      "official_url": "https://events.q4inc.com/attendee/800897744",
+      "link": "https://investors.coreweave.com/events-and-presentations/default.aspx"
+    },
+    {
+      "company": "nrg",
+      "slug": "nrg_q3_2026",
+      "title": "NRG Energy \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-11-09",
+      "duration_sec": 3161.954,
+      "bytes": 37760768,
+      "bitrate": 96,
+      "official_url": "https://edge.media-server.com/mmc/p/45wye339",
+      "link": "https://investors.nrg.com/news-releases/news-release-details/nrg-energy-reports-third-quarter-2026-results-reaffirms-2026"
+    },
+    {
+      "company": "vst",
+      "slug": "vst_q3_2026",
+      "title": "Vistra \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-11-06",
+      "duration_sec": 3822.698,
+      "bytes": 46784568,
+      "bitrate": 96,
+      "official_url": "https://vistra-corp-3q26-earnings-call-nov-2026.open-exchange.net/webcast",
+      "link": "https://investor.vistracorp.com/2026-11-06-Vistra-Reports-Third-Quarter-2026-Results"
+    },
+    {
+      "company": "iren",
+      "slug": "iren_q1_fy27",
+      "title": "IREN \u2014 Q1 FY27 Results",
+      "quarter": "Q1 FY27",
+      "date": "2026-11-05",
+      "duration_sec": 3877.314,
+      "bytes": 44459876,
+      "bitrate": 96,
+      "official_url": "https://edge.media-server.com/mmc/p/ym7uqpwj",
+      "link": "https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-q1-fy27-results"
+    },
+    {
+      "company": "gfs",
+      "slug": "gfs_q3_2026",
+      "title": "GlobalFoundries \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-11-04",
+      "duration_sec": 3790.588,
+      "bytes": 45406016,
+      "bitrate": 96,
+      "official_url": "https://edge.media-server.com/mmc/p/qykrgd67",
+      "link": "https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "company": "cifr",
+      "slug": "cifr_q3_2026",
+      "title": "Cipher Digital \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-11-02",
+      "duration_sec": 3622.545,
+      "bytes": 43529998,
+      "bitrate": 96,
+      "official_url": "https://edge.media-server.com/mmc/p/c9ou8gsq",
+      "link": "https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-third-quarter-2026-business-update/"
+    },
+    {
+      "company": "rblx",
+      "slug": "rblx_q3_2026",
+      "title": "Roblox \u2014 Q3 2026 Results",
+      "quarter": "Q3 2026",
+      "date": "2026-10-29",
+      "duration_sec": 2720.032,
+      "bytes": 33480780,
+      "bitrate": 96,
+      "official_url": "https://events.q4inc.com/attendee/813557619",
+      "link": "https://ir.roblox.com/news/news-details/2026/Roblox-Reports-Third-Quarter-2026-Financial-Results/default.aspx"
+    }
+  ]
+}

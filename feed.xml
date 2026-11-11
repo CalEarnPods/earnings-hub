@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Earnings HUB</title>
+  <link>https://calearnpods.github.io/earnings-hub/</link>
+  <description>Earnings HUB is a fan-made, non-official podcast feed for personal use only. It collects the latest official quarterly earnings conference call audio from IREN, GlobalFoundries, Cipher Digital, Roblox, Vistra, CoreWeave and NRG Energy. It is not affiliated with, endorsed by, or sponsored by IREN, GlobalFoundries, Cipher Digital, Switch, Roblox, Vistra, CoreWeave, NRG Energy, or any other company. All call audio belongs to the respective companies.</description>
+  <language>en-us</language>
+  <lastBuildDate>Wed, 11 Nov 2026 01:58:15 +0000</lastBuildDate>
+  <atom:link href="https://calearnpods.github.io/earnings-hub/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Earnings HUB</itunes:author>
+  <itunes:summary>Earnings HUB is a fan-made, non-official podcast feed for personal use only. It collects the latest official quarterly earnings conference call audio from IREN, GlobalFoundries, Cipher Digital, Roblox, Vistra, CoreWeave and NRG Energy. It is not affiliated with, endorsed by, or sponsored by IREN, GlobalFoundries, Cipher Digital, Switch, Roblox, Vistra, CoreWeave, NRG Energy, or any other company. All call audio belongs to the respective companies.</itunes:summary>
+  <itunes:subtitle>Fan-made personal feed of the latest official earnings calls</itunes:subtitle>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+  <itunes:owner>
+    <itunes:name>Earnings HUB</itunes:name>
+  </itunes:owner>
+  <itunes:image href="https://calearnpods.github.io/earnings-hub/art/cover.jpg"/>
+  <image>
+    <url>https://calearnpods.github.io/earnings-hub/art/cover.jpg</url>
+    <title>Earnings HUB</title>
+    <link>https://calearnpods.github.io/earnings-hub/</link>
+  </image>
+  <item>
+    <title>CoreWeave — Q3 2026 Results</title>
+    <description>Official CoreWeave, Inc. (NASDAQ: CRWV) conference call: CoreWeave Third Quarter 2026 Earnings Call. Full call audio from the company's investor relations webcast; see the company's earnings release on its investor site for figures.</description>
+    <link>https://investors.coreweave.com/events-and-presentations/default.aspx</link>
+    <guid isPermaLink="false">earnings-hub-crwv_q3_2026-2026-11-10</guid>
+    <pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/crwv_q3_2026.m4a" length="46316195" type="audio/x-m4a"/>
+    <itunes:title>CoreWeave — Q3 2026 Results</itunes:title>
+    <itunes:duration>1:03:12</itunes:duration>
+    <itunes:summary>Official CoreWeave, Inc. (NASDAQ: CRWV) conference call: CoreWeave Third Quarter 2026 Earnings Call. Full call audio from the company's investor relations webcast; see the company's earnings release on its investor site for figures.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/crwv_q3_2026.jpg"/>
+  </item>
+  <item>
+    <title>NRG Energy — Q3 2026 Results</title>
+    <description>Official NRG Energy, Inc. (NYSE: NRG) conference call reviewing results for the third quarter ended September 30, 2026. Per the company's release: GAAP net income of $561 million, Adjusted EPS of $4.68, Adjusted EBITDA of $2,013 million and free cash flow before growth investments of $1,242 million; 2026 guidance reaffirmed, 2027 guidance initiated, and a $4 billion agreement to sell 4.9 GW of natural gas-fired generation to LS Power.</description>
+    <link>https://investors.nrg.com/news-releases/news-release-details/nrg-energy-reports-third-quarter-2026-results-reaffirms-2026</link>
+    <guid isPermaLink="false">earnings-hub-nrg_q3_2026-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/nrg_q3_2026.m4a" length="37760768" type="audio/x-m4a"/>
+    <itunes:title>NRG Energy — Q3 2026 Results</itunes:title>
+    <itunes:duration>52:42</itunes:duration>
+    <itunes:summary>Official NRG Energy, Inc. (NYSE: NRG) conference call reviewing results for the third quarter ended September 30, 2026. Per the company's release: GAAP net income of $561 million, Adjusted EPS of $4.68, Adjusted EBITDA of $2,013 million and free cash flow before growth investments of $1,242 million; 2026 guidance reaffirmed, 2027 guidance initiated, and a $4 billion agreement to sell 4.9 GW of natural gas-fired generation to LS Power.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/nrg_q3_2026.jpg"/>
+  </item>
+  <item>
+    <title>Vistra — Q3 2026 Results</title>
+    <description>Official Vistra Corp. (NYSE: VST) webcast reviewing third quarter 2026 results. Per the company's release: GAAP net income of $1,140 million, Ongoing Operations Adjusted EBITDA up more than 50% year over year to $2,378 million, 2026 Adjusted EBITDA guidance narrowed to $7.1–$7.5 billion, 2027 guidance initiated at $7.7–$8.5 billion, an additional $1.5 billion share repurchase authorization, and the October close of the roughly 5,500 MW Cogentrix Energy acquisition.</description>
+    <link>https://investor.vistracorp.com/2026-11-06-Vistra-Reports-Third-Quarter-2026-Results</link>
+    <guid isPermaLink="false">earnings-hub-vst_q3_2026-2026-11-06</guid>
+    <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/vst_q3_2026.m4a" length="46784568" type="audio/x-m4a"/>
+    <itunes:title>Vistra — Q3 2026 Results</itunes:title>
+    <itunes:duration>1:03:43</itunes:duration>
+    <itunes:summary>Official Vistra Corp. (NYSE: VST) webcast reviewing third quarter 2026 results. Per the company's release: GAAP net income of $1,140 million, Ongoing Operations Adjusted EBITDA up more than 50% year over year to $2,378 million, 2026 Adjusted EBITDA guidance narrowed to $7.1–$7.5 billion, 2027 guidance initiated at $7.7–$8.5 billion, an additional $1.5 billion share repurchase authorization, and the October close of the roughly 5,500 MW Cogentrix Energy acquisition.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/vst_q3_2026.jpg"/>
+  </item>
+  <item>
+    <title>IREN — Q1 FY27 Results</title>
+    <description>Official IREN Limited (NASDAQ: IREN) conference call covering results for the quarter ended September 30, 2026. Per the company's release, quarterly AI Cloud revenue nearly tripled to $200 million and total quarterly revenue rose 66% sequentially to $228 million.</description>
+    <link>https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-q1-fy27-results</link>
+    <guid isPermaLink="false">earnings-hub-iren_q1_fy27-2026-11-05</guid>
+    <pubDate>Thu, 05 Nov 2026 22:00:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/iren_q1_fy27.m4a" length="44459876" type="audio/x-m4a"/>
+    <itunes:title>IREN — Q1 FY27 Results</itunes:title>
+    <itunes:duration>1:04:37</itunes:duration>
+    <itunes:summary>Official IREN Limited (NASDAQ: IREN) conference call covering results for the quarter ended September 30, 2026. Per the company's release, quarterly AI Cloud revenue nearly tripled to $200 million and total quarterly revenue rose 66% sequentially to $228 million.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/iren_q1_fy27.jpg"/>
+  </item>
+  <item>
+    <title>GlobalFoundries — Q3 2026 Results</title>
+    <description>Official GlobalFoundries Inc. (NASDAQ: GFS) conference call reviewing results for the third quarter ended September 30, 2026. Per the company's release: revenue of $1.899 billion, gross margin of 30.1% (31.4% non-IFRS), non-IFRS EPS of $0.53, and ending cash, cash equivalents and marketable securities of $3.2 billion.</description>
+    <link>https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-third-quarter-2026-financial-results</link>
+    <guid isPermaLink="false">earnings-hub-gfs_q3_2026-2026-11-04</guid>
+    <pubDate>Wed, 04 Nov 2026 13:30:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/gfs_q3_2026.m4a" length="45406016" type="audio/x-m4a"/>
+    <itunes:title>GlobalFoundries — Q3 2026 Results</itunes:title>
+    <itunes:duration>1:03:11</itunes:duration>
+    <itunes:summary>Official GlobalFoundries Inc. (NASDAQ: GFS) conference call reviewing results for the third quarter ended September 30, 2026. Per the company's release: revenue of $1.899 billion, gross margin of 30.1% (31.4% non-IFRS), non-IFRS EPS of $0.53, and ending cash, cash equivalents and marketable securities of $3.2 billion.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/gfs_q3_2026.jpg"/>
+  </item>
+  <item>
+    <title>Cipher Digital — Q3 2026 Results</title>
+    <description>Official Cipher Digital Inc. (NASDAQ: CIFR) third quarter 2026 business update conference call. Per the company's release: first HPC lease revenue recognized at Black Pearl, the Barber Lake lease expanded to a 20-year term raising contracted revenue at the site to about $9.1 billion, and Q3 revenue of $27 million.</description>
+    <link>https://investors.cipherdigital.com/news-releases/news-release-details/cipher-digital-provides-third-quarter-2026-business-update/</link>
+    <guid isPermaLink="false">earnings-hub-cifr_q3_2026-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 13:00:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/cifr_q3_2026.m4a" length="43529998" type="audio/x-m4a"/>
+    <itunes:title>Cipher Digital — Q3 2026 Results</itunes:title>
+    <itunes:duration>1:00:23</itunes:duration>
+    <itunes:summary>Official Cipher Digital Inc. (NASDAQ: CIFR) third quarter 2026 business update conference call. Per the company's release: first HPC lease revenue recognized at Black Pearl, the Barber Lake lease expanded to a 20-year term raising contracted revenue at the site to about $9.1 billion, and Q3 revenue of $27 million.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/cifr_q3_2026.jpg"/>
+  </item>
+  <item>
+    <title>Roblox — Q3 2026 Results</title>
+    <description>Official Roblox Corporation (NYSE: RBLX) earnings conference call for the third quarter of 2026. Per the company's shareholder letter: more than 80% of the top 100 games used AI tools to accelerate creation, daily asset uploads tripled month-over-month, and over 500,000 people have used its new prompt-to-game tool, Build.</description>
+    <link>https://ir.roblox.com/news/news-details/2026/Roblox-Reports-Third-Quarter-2026-Financial-Results/default.aspx</link>
+    <guid isPermaLink="false">earnings-hub-rblx_q3_2026-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 20:30:00 +0000</pubDate>
+    <enclosure url="https://calearnpods.github.io/earnings-hub/audio/rblx_q3_2026.m4a" length="33480780" type="audio/x-m4a"/>
+    <itunes:title>Roblox — Q3 2026 Results</itunes:title>
+    <itunes:duration>45:20</itunes:duration>
+    <itunes:summary>Official Roblox Corporation (NYSE: RBLX) earnings conference call for the third quarter of 2026. Per the company's shareholder letter: more than 80% of the top 100 games used AI tools to accelerate creation, daily asset uploads tripled month-over-month, and over 500,000 people have used its new prompt-to-game tool, Build.</itunes:summary>
+    <itunes:author>Earnings HUB</itunes:author>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://calearnpods.github.io/earnings-hub/art/rblx_q3_2026.jpg"/>
+  </item>
+</channel>
+</rss>
